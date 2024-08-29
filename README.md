@@ -1,6 +1,5 @@
 # Minesweeper API
 
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/SautovAndrey/Minesweeper-API)
 ![GitHub last commit](https://img.shields.io/github/last-commit/SautovAndrey/Minesweeper-API)
 ![GitHub repo size](https://img.shields.io/github/repo-size/SautovAndrey/Minesweeper-API)
 ![GitHub issues](https://img.shields.io/github/issues/SautovAndrey/Minesweeper-API)
