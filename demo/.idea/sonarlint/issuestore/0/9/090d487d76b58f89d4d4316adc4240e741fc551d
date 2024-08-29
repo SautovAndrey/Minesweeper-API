@@ -1,0 +1,9 @@
+
+–
+java:S1450"URemove the "defeat" field and declare it as a local variable in the relevant methods.(Ü¯éŸÿÿÿÿÿJ$f89ef128-7bc7-4600-8a20-3c7cafdd10c5
+Y
+java:S2119'"Save and re-use this "Random".(¼ÝÅfJ$405c69b0-271d-4bbb-b5a7-cd821be70736
+g
+java:S1128"JRemove this unused import 'com.fasterxml.jackson.annotation.JsonProperty'.(ËÃ§Ï8Ã«åÌ™2
+k
+java:S1068"*Remove this unused "defeat" private field.(Ü¯éŸÿÿÿÿÿJ$6ca7eca5-e163-4a72-8274-94ffefefcacd
