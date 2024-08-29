@@ -91,6 +91,8 @@
 ./gradlew bootRun
 ```
 
-Приложение будет доступно по адресу [http://localhost:8080/api](http://localhost:8080/api)
+### Ссылка на игру
 
+Вы можете попробовать игру в действии по следующей ссылке: [Minesweeper Online](https://minesweeper-test.studiotg.ru/)
+Приложение будет доступно по адресу [http://localhost:8080/api](http://localhost:8080/api)
 
